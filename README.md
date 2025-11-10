@@ -1,4 +1,4 @@
-# 🧩 PostgreSQL Procedures & Functions — Beginner Notes
+# 🧩 PostgreSQL Procedures & Functions
 
 ---
 
